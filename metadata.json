@@ -1,0 +1,6 @@
+{
+  "name": "belajarin",
+  "description": "Platform pembelajaran interaktif terpadu dengan LKPD, Bank Soal, Evaluasi, pendeteksi kecurangan, analisis AI untuk koreksi, dan rekap nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
